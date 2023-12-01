@@ -1,0 +1,8 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  bash:
+    cmds:
+      - cat input-1.txt | ./bash.sh
