@@ -4,5 +4,6 @@ version: '3'
 
 tasks:
   bash:
-    cmds:
-      - cat input-1.txt | ./bash.sh
+    - cat input-2.txt | ./bash.sh
+  python:
+    - cat input-2.txt | ./python.py
