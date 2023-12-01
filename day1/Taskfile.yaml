@@ -7,3 +7,5 @@ tasks:
     - cat input-2.txt | ./bash.sh
   python:
     - cat input-2.txt | ./python.py
+  elixir:
+    - cat input-2.txt | ./elixir.exs
