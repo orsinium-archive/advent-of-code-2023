@@ -11,3 +11,5 @@ tasks:
     - cat input-2.txt | ./elixir.exs
   golang:
     - cat input-2.txt | go run golang.go
+  rust:
+    - cat input-2.txt | cargo run
