@@ -1,0 +1,7 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  python:
+    - cat input-2.txt | ./python.py
