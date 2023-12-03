@@ -4,3 +4,4 @@
 
 * [day1](./day1/) (and [part 2](./day1-part2/))
 * [day2](./day2/)
+* [day3](./day3/)
